@@ -1,15 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class HelloWorld : MonoBehaviour {
-
+public class Operators : MonoBehaviour 
+	{
+	
 	// Use this for initialization
-	void Start () {
-		print ("Hello World");
-	}
+	void Start () 
+		{
+		
+		}
 	
 	// Update is called once per frame
-	void Update () {
-
+	void Update () 
+		{
+		
+		}
 	}
-}
