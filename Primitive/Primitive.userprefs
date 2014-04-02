@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RedPlayerMovement.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Glasses\Assets\Toggleglasses.cs">
     <Files>
-      <File FileName="Assets\RedPlayerMovement.cs" Line="18" Column="4" />
+      <File FileName="..\Glasses\Assets\Toggleglasses.cs" Line="11" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
